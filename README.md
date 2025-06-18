@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Mobile App WanderWay
-- 🌱 I’m currently learning React Native and Nodejs
+- 🔭 Currently working on Mobile App WanderWay
+- 🌱 Learning React Native and Nodejs
 - 👯 I’m looking to collaborate on Frontend Projects
 - 💬 Ask me about the new WanerWay App 
 - 📫 How to reach me: trough my Social
